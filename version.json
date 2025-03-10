@@ -1,0 +1,16 @@
+{
+    "version": "4.0.0",
+    "releaseDate": "2024-02-14",
+    "description": "XS MAX System Utility",
+    "downloadUrl": "",
+    "changes": [
+        "Улучшенная система оптимизации",
+        "Автоматическое обновление",
+        "Новый интерфейс"
+    ],
+    "minSystemRequirements": {
+        "os": "Windows 10",
+        "ram": "4GB",
+        "storage": "100MB"
+    }
+}
